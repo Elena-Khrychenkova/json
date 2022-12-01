@@ -1,0 +1,37 @@
+{
+    "eventName" : "Ballet Season",
+    "location" : "Paris",
+    "yearOfSeson" : 2023,
+    "ballet" : [
+      {
+        "balletName" : "Swan Lake",
+        "yearReleased" : 1877,
+        "music" : "Pyotr Tchaikovsky",
+        "famousBalletDancers" : [
+          "Vaslav Nijinsky",
+          "Mathilde Kschessinska",
+          "Mikhail Mordkin"
+        ]
+      },
+      {
+        "balletName" : "Giselle",
+        "yearReleased" : 1841,
+        "music" : "Adolphe Adam",
+        "famousBalletDancers" : [
+          "Anna Pavlova",
+          "Carlotta Grisi",
+          "Vaslav Nijinsky"
+        ]
+      },
+      {
+        "balletName" : "The Nutcracker",
+        "yearReleased" :  1892,
+        "music" : "Pyotr Tchaikovsky",
+        "famousBalletDancers" : [
+          "Olga Preobrajenska",
+          "Nikolai Legat",
+          "Pavel Gerdt"
+        ]
+      }
+    ]
+  }
